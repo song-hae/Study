@@ -2,7 +2,7 @@
 
 **Extract - Transform - Load 데이터 파이프라인이 작동하는 일련의 과정으로 데이터 소스로부터 데이터 추출, 변환, 적재하는 과정을 일컬음.**
 
-![ETL_process](images/ETL_process.png)
+![ETL_process](../images/ETL_process.png)
 
 1. **Extract 단계**에서는 원 데이터 소스로부터 raw data를 추출해냄. (물론 DWH나 DL, DM간의 이동 시에도 추출 단계를 거침)
 

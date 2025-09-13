@@ -25,3 +25,5 @@ ELT의 경우 데이터를 처리할 장소에 먼저 로드를 해놓고 처리
 동시에 최근 API를 활용한 **EAI(Entreprenuer Application Integration)**도 데이터 엔지니어링 프로세스의 ~~새로운 패러다임으로 제시되는 중.~~
 
 \+ 새로운 패러다임이라기보다는 **여러 시스템 간의 정보와 프로세스를 통합하는 별도의 기술 영역**으로 보는 것에 더 적절.
+
+이미지 출처 : https://global.trocco.io/ko/blogs/what-is-etl

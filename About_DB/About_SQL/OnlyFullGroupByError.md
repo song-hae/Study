@@ -12,7 +12,7 @@
 
 `only_full_group_by` 에러는 MySQL 기본 설정으로 논리적 모호함 방지를 위한 에러임.
 
-![](//images/group_by.png)
+![.](//images/group_by.png)
 
 집계함수를 사용하지 않는 컬럼의 경우 `group by`에 포함되지 않았을 때(ex. `ID`),
 

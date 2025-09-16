@@ -11,4 +11,4 @@
    (1) 그렇기에 외부 쿼리 블록에서 선언된 별칭은 내부 쿼리 블록에서 **호출 불가**
    (2) 하지만 반대로 내부 쿼리 블록에서 선언된 별칭은 외부에서 **호출 가능**
 
-[ex](/About_DB/About_SQL/SQL/Alias_Ex.sql)
+![ex](/About_DB/About_SQL/SQL/Alias_Ex.sql)

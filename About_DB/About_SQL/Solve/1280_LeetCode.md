@@ -9,4 +9,4 @@ CROSS JOIN을 통해 카테시안곱을 생성하는 것은 두 릴레이션의 
 \+
 CROSS JOIN 활용 -> 카테시안곱만큼의 릴레이션 생성. (간단히 두 릴레이션의 내용을 모두 포함한 테이블을 만드는거니까 ON을 통한 속성간 연결 필요 x)
 
-[SQL](../SQL/1280_LeetCode.sql)
+![SQL](../SQL/1280_LeetCode.sql)

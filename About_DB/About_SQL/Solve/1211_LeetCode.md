@@ -15,4 +15,4 @@ COUNT()의 경우 컬럼에서 NULL이 아닌 것의 개수를 셈.
 COUNT(CASE WHEN 조건식 THEN 1 ELSE NULL END)
 사용하면 됨. 하지만 SUM()이 더 가독성, 효율 측면에서 우수함.
 
-[SQL](../SQL/1211_LeetCode.sql)
+![SQL](../SQL/1211_LeetCode.sql)

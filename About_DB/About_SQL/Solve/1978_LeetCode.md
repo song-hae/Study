@@ -18,4 +18,4 @@ A. 이런 경우 Null을 비교 불가능한 값으로 보기에 null과 관련�
 --3
 이 되어야 함. (근데 실행해보니 개느리네..)
 
-[SQL](../SQL/1978_LeetCode.sql)
+![SQL](../SQL/1978_LeetCode.sql)
